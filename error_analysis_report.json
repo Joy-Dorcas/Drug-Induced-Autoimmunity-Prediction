@@ -1,0 +1,101 @@
+{
+  "False_Positives": [
+    {
+      "Index": 44,
+      "True_Label": 0,
+      "Predicted_Prob": 0.9357955672139201,
+      "SMILES": "C[C@@H]1Nc2cc(Cl)c(cc2C(=O)N1c3ccccc3C)S(=O)(=O)N"
+    },
+    {
+      "Index": 74,
+      "True_Label": 0,
+      "Predicted_Prob": 0.8854782369733908,
+      "SMILES": "C[C@H](N)Cc1ccccc1"
+    },
+    {
+      "Index": 109,
+      "True_Label": 0,
+      "Predicted_Prob": 0.8521522494344754,
+      "SMILES": "NC(=NC(=O)c1nc(Cl)c(N)nc1N)N"
+    },
+    {
+      "Index": 29,
+      "True_Label": 0,
+      "Predicted_Prob": 0.6839846393386011,
+      "SMILES": "CC(C)(C)NC[C@H](O)COc1ccccc1C2CCCC2"
+    },
+    {
+      "Index": 71,
+      "True_Label": 0,
+      "Predicted_Prob": 0.6188649710975614,
+      "SMILES": "COc1ccc(CC(C)(C)NC[C@H](O)c2cc(O)cc3NC(=O)COc23)cc1"
+    },
+    {
+      "Index": 60,
+      "True_Label": 0,
+      "Predicted_Prob": 0.5290939396329719,
+      "SMILES": "Nc1cc(Cl)c(NC2=NCCN2)c(Cl)c1"
+    },
+    {
+      "Index": 115,
+      "True_Label": 0,
+      "Predicted_Prob": 0.5155161331915222,
+      "SMILES": "CCN1CCN(C(=O)N[C@H](C(=O)N[C@@H]2[C@@H]3SC(C)(C)[C@H](N3C2=O)C(=O)[O-])c4ccccc4)C(=O)C1=O"
+    },
+    {
+      "Index": 100,
+      "True_Label": 0,
+      "Predicted_Prob": 0.5136089466151765,
+      "SMILES": "CCOc1cc(ccc1OC)[C@H](CS(=O)(=O)C)N2C(=O)c3cccc(NC(=O)C)c3C2=O"
+    },
+    {
+      "Index": 14,
+      "True_Label": 0,
+      "Predicted_Prob": 0.5062361750215941,
+      "SMILES": "Nc1nc(N)c2nc(C[C@@H](CC#C)c3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)cnc2n1"
+    }
+  ],
+  "False_Negatives": [
+    {
+      "Index": 52,
+      "True_Label": 1,
+      "Predicted_Prob": 0.33571311021165223,
+      "SMILES": "COCCCOc1ccnc(CS(=O)c2nc3ccccc3[nH]2)c1C"
+    },
+    {
+      "Index": 53,
+      "True_Label": 1,
+      "Predicted_Prob": 0.3396315737991603,
+      "SMILES": "O=C1NC=Nc2[nH]ncc12"
+    },
+    {
+      "Index": 48,
+      "True_Label": 1,
+      "Predicted_Prob": 0.342985998624448,
+      "SMILES": "COc1cc(\\C=C/2\\SC(=O)N(CC(=O)Nc3ccc(F)cc3F)C2=O)ccc1Oc4ccc(cc4[N+](=O)[O-])[N+](=O)[O-]"
+    },
+    {
+      "Index": 104,
+      "True_Label": 1,
+      "Predicted_Prob": 0.40912858802420565,
+      "SMILES": "CCCC1=CC(=O)NC(=S)N1"
+    },
+    {
+      "Index": 112,
+      "True_Label": 1,
+      "Predicted_Prob": 0.4551094362056777,
+      "SMILES": "CCCNC[C@H](O)COc1ccccc1C(=O)CCc2ccccc2"
+    },
+    {
+      "Index": 110,
+      "True_Label": 1,
+      "Predicted_Prob": 0.49454188186903586,
+      "SMILES": "COc1ccc(cc1)[C@H](CN(C)C)C2(O)CCCCC2"
+    }
+  ],
+  "Summary": {
+    "FP_Rate": 0.1,
+    "FN_Rate": 0.2,
+    "Accuracy": 0.875
+  }
+}
