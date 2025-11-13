@@ -6,6 +6,8 @@
 
 > **Machine learning system for predicting drug-induced autoimmunity risk during early drug development**
 
+## article: https://medium.com/@joymanyara55/the-drug-that-tried-to-kill-her-5a1bdd357033
+
 ## 🎯 Project Overview
 
 Drug-Induced Autoimmunity (DIA) is a serious adverse drug reaction where medications trigger the immune system to attack the body's own tissues. This project develops an interpretable machine learning system to identify DIA risk during preclinical drug development, potentially preventing costly clinical trial failures and patient harm.
